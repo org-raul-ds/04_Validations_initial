@@ -1,0 +1,11 @@
+"Product Code". Length = 4.
+
+"Postal Code". Digits and length = 5.
+
+"Age". Digits and greater than 18.
+
+"Salary". Digits and greater than 800 and less than 1200.
+
+"Location". "Santander\Oviedo\Cadiz" or Postal Code (see above).
+
+"Promotion Code". Text (no digits) or (number of 3 digits).

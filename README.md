@@ -9,6 +9,6 @@ To submit your solution:
 - Run `git commit -m "final code"`
 - Run `git push`
 
-The solution can be found in [this repository](/**/), which will be available during the next lab session (it is currently disabled, so the link will produce an error).
+The solution can be found in [this repository](https://github.com/org-raul-ds/04_Validations_solution), which will be available during the next lab session (it is currently disabled, so the link will produce an error).
 
 **IMPORTANT:** This repository will be **deleted** at the end of the course. Make sure to save any code you want to keep elsewhere.
