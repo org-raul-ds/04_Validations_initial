@@ -3,10 +3,10 @@ package es.uniovi.ds.lab.main;
 import es.uniovi.ds.lab.form.*;
 
 /**
- * IMPORTANTE: El código entregado para esta práctica es el mínimo necesario para entender
- * el ejercicio y NUNCA debería ser tomado como un ejemplo del uso adecuado de excepciones, asertos
- * y tests. Todos los elementos anteriores, que deberían hacerse en un programa real, se han omitido
- * a propósito para simplificar el planteamiento del ejercicio.
+ * IMPORTANT: The code provided for this exercise is the minimum necessary to understand
+ * the task and should NEVER be taken as an example of proper use of exceptions, assertions,
+ * and tests. All of the above elements, which should be present in a real program, have been
+ * intentionally omitted to simplify the exercise.
  */
 
 public class Main {

@@ -6,6 +6,6 @@
 
 "Salary". Digits and greater than 800 and less than 1200.
 
-"Location". "Santander\Oviedo\Cadiz" or Postal Code (see above).
+"Location". "Santander\Valladolid\Madrid" or Postal Code (see above).
 
 "Promotion Code". Text (no digits) or (number of 3 digits).
