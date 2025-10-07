@@ -1,14 +1,20 @@
 # Software Design Laboratory Class
 
+## Instructions
+
 Students must complete this exercise and submit their proposed solution.
 
 To submit your solution:
-- Open the terminal
-- Navigate into **this specific repository folder** (not just the folder containing all your repos)
-- Run `git add -A`
-- Run `git commit -m "final code"`
-- Run `git push`
-
-The solution can be found in [this repository](https://github.com/org-raul-ds/04_Validations_solution), which will be available during the next lab session (it is currently disabled, so the link will produce an error).
+- Open the terminal.
+- Navigate to **this specific repository folder** (not just the folder containing all your repositories).
+- Run `git add -A`.
+- Run `git commit -m "final code"`.
+- Run `git push`.
 
 **IMPORTANT:** This repository will be **deleted** at the end of the course. Make sure to save any code you want to keep elsewhere.
+
+## Solutions
+
+The solution to **this exercise** can be found in [this repository](https://github.com/org-raul-ds/04_Validations_solution), which will be available during the next lab session (it is currently disabled, so the link will produce an error).
+
+The solution to **last week's exercise** can be found in [this repository](https://github.com/org-raul-ds/03_Editor_solution).
