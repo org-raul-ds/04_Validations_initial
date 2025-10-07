@@ -18,8 +18,8 @@ public class Main {
         form.addField(new TextField("Name"));
         form.addField(new TextField("Surname"));
         form.addField(new NumericField("Phone"));
-        form.addField(new PredefinedValueField("City", "Santander", "Valladolid", "Madrid"));
+        form.addField(new PredefinedValuesField("City", "Santander", "Valladolid", "Madrid"));
 
-        form.requestData();
+        form.requestInput();
     }
 }

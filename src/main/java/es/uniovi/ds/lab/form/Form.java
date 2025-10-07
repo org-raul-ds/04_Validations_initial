@@ -4,14 +4,14 @@ import java.util.*;
 
 public class Form {
 
-    private List<FormField> fields = new ArrayList<>();
+    private List<Field> fields = new ArrayList<>();
 
-    public void addField(FormField field) {
+    public void addField(Field field) {
         fields.add(field);
     }
 
-    public void requestData() {
-        for (FormField field : fields) {
+    public void requestInput() {
+        for (Field field : fields) {
             field.requestInput();
             System.out.println(field.getValue());
         }

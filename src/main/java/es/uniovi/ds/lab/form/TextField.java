@@ -2,7 +2,7 @@ package es.uniovi.ds.lab.form;
 
 import java.io.*;
 
-public class TextField implements FormField {
+public class TextField implements Field {
 
     private String label;
     private String value;
@@ -12,6 +12,7 @@ public class TextField implements FormField {
     }
 
     public void requestInput() {
+
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
 
         boolean isValid;
@@ -22,12 +23,11 @@ public class TextField implements FormField {
                 value = console.readLine();
 
                 // Check if the entered text is made up of letters
-                for (char ch : value.toCharArray()) {
+                for (char ch : value.toCharArray())
                     if (!Character.isLetter(ch)) {
                         isValid = false;
                         break;
                     }
-                }
 
             } catch (IOException ex) {
                 System.out.println(ex);
