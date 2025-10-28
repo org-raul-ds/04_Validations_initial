@@ -11,7 +11,7 @@ Add the following fields to the form.
 | **Age**            | Digits and greater than 18                               |
 | **Salary**         | Digits and greater than 800 and less than 1200           |
 | **Location**       | "Santander\Valladolid\Madrid" or Postal Code (see above) |
-| **Promotion Code** | Text (no digits) or (digits and length 3)                 |
+| **Promotion Code** | Text (letters) or (digits and length 3)                 |
 
 ## 💻 Submission Instructions
 
